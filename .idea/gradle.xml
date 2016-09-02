@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="G:\Software\android-studio-ide-143.2821654-windows\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activities" />
+            <option value="$PROJECT_DIR$/activityforresult" />
+            <option value="$PROJECT_DIR$/alertdialogapp" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/changetext" />
+            <option value="$PROJECT_DIR$/checkbox" />
+            <option value="$PROJECT_DIR$/complexmenu" />
+            <option value="$PROJECT_DIR$/components" />
+            <option value="$PROJECT_DIR$/contextmenu" />
+            <option value="$PROJECT_DIR$/helloworld" />
+            <option value="$PROJECT_DIR$/hostintent" />
+            <option value="$PROJECT_DIR$/implicitintent" />
+            <option value="$PROJECT_DIR$/intent_activity" />
+            <option value="$PROJECT_DIR$/land" />
+            <option value="$PROJECT_DIR$/lifecycle" />
+            <option value="$PROJECT_DIR$/logindialog" />
+            <option value="$PROJECT_DIR$/logtest" />
+            <option value="$PROJECT_DIR$/optionsmenu" />
+            <option value="$PROJECT_DIR$/popupmenu" />
+            <option value="$PROJECT_DIR$/recylerview" />
+            <option value="$PROJECT_DIR$/simplelistview" />
+            <option value="$PROJECT_DIR$/studentlistview" />
+            <option value="$PROJECT_DIR$/telephoneintent" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activities" />
+            <option value="$PROJECT_DIR$/activityforresult" />
+            <option value="$PROJECT_DIR$/alertdialogapp" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/changetext" />
+            <option value="$PROJECT_DIR$/checkbox" />
+            <option value="$PROJECT_DIR$/complexmenu" />
+            <option value="$PROJECT_DIR$/components" />
+            <option value="$PROJECT_DIR$/contextmenu" />
+            <option value="$PROJECT_DIR$/helloworld" />
+            <option value="$PROJECT_DIR$/hostintent" />
+            <option value="$PROJECT_DIR$/implicitintent" />
+            <option value="$PROJECT_DIR$/intent_activity" />
+            <option value="$PROJECT_DIR$/land" />
+            <option value="$PROJECT_DIR$/lifecycle" />
+            <option value="$PROJECT_DIR$/logindialog" />
+            <option value="$PROJECT_DIR$/logtest" />
+            <option value="$PROJECT_DIR$/optionsmenu" />
+            <option value="$PROJECT_DIR$/popupmenu" />
+            <option value="$PROJECT_DIR$/recylerview" />
+            <option value="$PROJECT_DIR$/simplelistview" />
+            <option value="$PROJECT_DIR$/studentlistview" />
+            <option value="$PROJECT_DIR$/telephoneintent" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

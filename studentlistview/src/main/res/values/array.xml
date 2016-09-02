@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="student_name">
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+    </array>
+    <array name="student_class">
+        <item>class:一班</item>
+        <item>class:二班</item>
+        <item>class:三班</item>
+        <item>class:四班</item>
+    </array>
+    <array name="student_number">
+        <item>tel:10010</item>
+        <item>tel:10011</item>
+        <item>tel:10012</item>
+        <item>tel:10013</item>
+    </array>
+    <array name="student_telephone">
+        <item>number:555</item>
+        <item>number:666</item>
+        <item>number:777</item>
+        <item>number:888</item>
+    </array>
+</resources>

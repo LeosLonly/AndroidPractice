@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityForResult</string>
+    <string name="next">启动第二个Activity</string>
+    <string name="back">返回到前一个Activity</string>
+</resources>

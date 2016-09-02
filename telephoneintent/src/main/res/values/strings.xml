@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelephoneIntent</string>
+    <string name="telephone">打电话</string>
+</resources>

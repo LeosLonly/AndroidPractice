@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/activities.iml" filepath="$PROJECT_DIR$/activities/activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityforresult/activityforresult.iml" filepath="$PROJECT_DIR$/activityforresult/activityforresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" filepath="$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changetext/changetext.iml" filepath="$PROJECT_DIR$/changetext/changetext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbox/checkbox.iml" filepath="$PROJECT_DIR$/checkbox/checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complexmenu/complexmenu.iml" filepath="$PROJECT_DIR$/complexmenu/complexmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contextmenu/contextmenu.iml" filepath="$PROJECT_DIR$/contextmenu/contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hostintent/hostintent.iml" filepath="$PROJECT_DIR$/hostintent/hostintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implicitintent/implicitintent.iml" filepath="$PROJECT_DIR$/implicitintent/implicitintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent_activity/intent_activity.iml" filepath="$PROJECT_DIR$/intent_activity/intent_activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/land/land.iml" filepath="$PROJECT_DIR$/land/land.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindialog/logindialog.iml" filepath="$PROJECT_DIR$/logindialog/logindialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logtest/logtest.iml" filepath="$PROJECT_DIR$/logtest/logtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionsmenu/optionsmenu.iml" filepath="$PROJECT_DIR$/optionsmenu/optionsmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupmenu/popupmenu.iml" filepath="$PROJECT_DIR$/popupmenu/popupmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recylerview/recylerview.iml" filepath="$PROJECT_DIR$/recylerview/recylerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplelistview/simplelistview.iml" filepath="$PROJECT_DIR$/simplelistview/simplelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentlistview/studentlistview.iml" filepath="$PROJECT_DIR$/studentlistview/studentlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telephoneintent/telephoneintent.iml" filepath="$PROJECT_DIR$/telephoneintent/telephoneintent.iml" />
+    </modules>
+  </component>
+</project>
