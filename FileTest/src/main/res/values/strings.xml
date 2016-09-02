@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileTest</string>
+    <string name="read">Read data from file</string>
+    <string name="write">Write data to file</string>
+</resources>
