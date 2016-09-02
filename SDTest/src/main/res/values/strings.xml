@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDTest</string>
+    <string name="read">Read data from sdFile</string>
+    <string name="write">Write data to sdFile</string>
+</resources>
