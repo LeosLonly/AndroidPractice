@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/activities/activities.iml" filepath="$PROJECT_DIR$/activities/activities.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityforresult/activityforresult.iml" filepath="$PROJECT_DIR$/activityforresult/activityforresult.iml" />
       <module fileurl="file://$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" filepath="$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" />

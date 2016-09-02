@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
             <option value="$PROJECT_DIR$/alertdialogapp" />
@@ -37,6 +38,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
             <option value="$PROJECT_DIR$/alertdialogapp" />
