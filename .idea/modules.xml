@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDTest/SDTest.iml" filepath="$PROJECT_DIR$/SDTest/SDTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/activities/activities.iml" filepath="$PROJECT_DIR$/activities/activities.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityforresult/activityforresult.iml" filepath="$PROJECT_DIR$/activityforresult/activityforresult.iml" />
@@ -28,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/simplelistview/simplelistview.iml" filepath="$PROJECT_DIR$/simplelistview/simplelistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentlistview/studentlistview.iml" filepath="$PROJECT_DIR$/studentlistview/studentlistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/telephoneintent/telephoneintent.iml" filepath="$PROJECT_DIR$/telephoneintent/telephoneintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordstest/wordstest.iml" filepath="$PROJECT_DIR$/wordstest/wordstest.iml" />
     </modules>
   </component>
 </project>

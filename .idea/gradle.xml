@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FileTest" />
+            <option value="$PROJECT_DIR$/SDTest" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
@@ -34,12 +35,14 @@
             <option value="$PROJECT_DIR$/simplelistview" />
             <option value="$PROJECT_DIR$/studentlistview" />
             <option value="$PROJECT_DIR$/telephoneintent" />
+            <option value="$PROJECT_DIR$/wordstest" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FileTest" />
+            <option value="$PROJECT_DIR$/SDTest" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
@@ -64,6 +67,7 @@
             <option value="$PROJECT_DIR$/simplelistview" />
             <option value="$PROJECT_DIR$/studentlistview" />
             <option value="$PROJECT_DIR$/telephoneintent" />
+            <option value="$PROJECT_DIR$/wordstest" />
           </set>
         </option>
       </GradleProjectSettings>
