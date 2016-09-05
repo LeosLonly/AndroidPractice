@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="edu.bistu.computer.wordstest.MainActivity">
+    tools:context="edu.bistu.computer.wordstest3.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

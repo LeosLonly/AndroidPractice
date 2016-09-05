@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WordsTest</string>
+    <string name="app_name">WordsTest3</string>
     <string name="word_search">Search</string>
     <string name="word_add">Add</string>
     <string name="word_delete">Delete</string>

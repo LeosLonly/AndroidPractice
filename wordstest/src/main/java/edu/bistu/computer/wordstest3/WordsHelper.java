@@ -1,4 +1,4 @@
-package edu.bistu.computer.wordstest;
+package edu.bistu.computer.wordstest3;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
