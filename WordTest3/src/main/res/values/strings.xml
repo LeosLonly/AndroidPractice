@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WordsTest</string>
+    <string name="word_search">Search</string>
+    <string name="word_add">Add</string>
+    <string name="word_delete">Delete</string>
+    <string name="word_update">Update</string>
+    <string name="word">Word</string>
+    <string name="meanig">Meaning</string>
+    <string name="sample">Sample</string>
+    <string name="search">Search</string>
+    <string name="search_word">Search Word</string>
+    <string name="add_word">Add Word</string>
+    <string name="delete_word">Delete Word</string>
+    <string name="update_word">Update Word</string>
+    <string name="btn_ok">ok</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="match">No Matching Words</string>
+    <string name="back">Are you sure you want to delete this word?</string>
+</resources>

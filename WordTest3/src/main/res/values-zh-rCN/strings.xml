@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">单词本</string>
+    <string name="word_search">查找</string>
+    <string name="word_add">增加</string>
+    <string name="word_delete">删除</string>
+    <string name="word_update">修改</string>
+    <string name="word">单词</string>
+    <string name="meanig">词义</string>
+    <string name="sample">例子</string>
+    <string name="search">查找</string>
+    <string name="search_word">查找单词</string>
+    <string name="add_word">增加单词</string>
+    <string name="delete_word">删除单词</string>
+    <string name="update_word">修改单词</string>
+    <string name="btn_ok">确认</string>
+    <string name="btn_cancel">取消</string>
+    <string name="match">没有匹配的单词</string>
+    <string name="back">您确定要删除这个单词吗？</string>
+</resources>
