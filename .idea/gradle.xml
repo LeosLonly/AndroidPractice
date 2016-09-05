@@ -9,13 +9,28 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AccessWordsApp" />
+            <option value="$PROJECT_DIR$/ContactsTest" />
+            <option value="$PROJECT_DIR$/ContentObserverTest" />
+            <option value="$PROJECT_DIR$/DoubleBufferingApp" />
             <option value="$PROJECT_DIR$/FileTest" />
+            <option value="$PROJECT_DIR$/GraphicsApp" />
+            <option value="$PROJECT_DIR$/HandlerApp" />
+            <option value="$PROJECT_DIR$/IntentServiceApp" />
+            <option value="$PROJECT_DIR$/LinearGradientApp" />
+            <option value="$PROJECT_DIR$/LinearGradientApp2" />
+            <option value="$PROJECT_DIR$/MusicDisplay" />
+            <option value="$PROJECT_DIR$/NextThreadApp" />
             <option value="$PROJECT_DIR$/SDTest" />
+            <option value="$PROJECT_DIR$/ServiceApp" />
+            <option value="$PROJECT_DIR$/ServicesApp" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
+            <option value="$PROJECT_DIR$/WordTest3" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
             <option value="$PROJECT_DIR$/alertdialogapp" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindservicesapp" />
             <option value="$PROJECT_DIR$/changetext" />
             <option value="$PROJECT_DIR$/checkbox" />
             <option value="$PROJECT_DIR$/complexmenu" />
@@ -35,19 +50,35 @@
             <option value="$PROJECT_DIR$/simplelistview" />
             <option value="$PROJECT_DIR$/studentlistview" />
             <option value="$PROJECT_DIR$/telephoneintent" />
+            <option value="$PROJECT_DIR$/threadapp" />
             <option value="$PROJECT_DIR$/wordstest" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AccessWordsApp" />
+            <option value="$PROJECT_DIR$/ContactsTest" />
+            <option value="$PROJECT_DIR$/ContentObserverTest" />
+            <option value="$PROJECT_DIR$/DoubleBufferingApp" />
             <option value="$PROJECT_DIR$/FileTest" />
+            <option value="$PROJECT_DIR$/GraphicsApp" />
+            <option value="$PROJECT_DIR$/HandlerApp" />
+            <option value="$PROJECT_DIR$/IntentServiceApp" />
+            <option value="$PROJECT_DIR$/LinearGradientApp" />
+            <option value="$PROJECT_DIR$/LinearGradientApp2" />
+            <option value="$PROJECT_DIR$/MusicDisplay" />
+            <option value="$PROJECT_DIR$/NextThreadApp" />
             <option value="$PROJECT_DIR$/SDTest" />
+            <option value="$PROJECT_DIR$/ServiceApp" />
+            <option value="$PROJECT_DIR$/ServicesApp" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
+            <option value="$PROJECT_DIR$/WordTest3" />
             <option value="$PROJECT_DIR$/activities" />
             <option value="$PROJECT_DIR$/activityforresult" />
             <option value="$PROJECT_DIR$/alertdialogapp" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindservicesapp" />
             <option value="$PROJECT_DIR$/changetext" />
             <option value="$PROJECT_DIR$/checkbox" />
             <option value="$PROJECT_DIR$/complexmenu" />
@@ -67,6 +98,7 @@
             <option value="$PROJECT_DIR$/simplelistview" />
             <option value="$PROJECT_DIR$/studentlistview" />
             <option value="$PROJECT_DIR$/telephoneintent" />
+            <option value="$PROJECT_DIR$/threadapp" />
             <option value="$PROJECT_DIR$/wordstest" />
           </set>
         </option>

@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessWordsApp/AccessWordsApp.iml" filepath="$PROJECT_DIR$/AccessWordsApp/AccessWordsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactsTest/ContactsTest.iml" filepath="$PROJECT_DIR$/ContactsTest/ContactsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentObserverTest/ContentObserverTest.iml" filepath="$PROJECT_DIR$/ContentObserverTest/ContentObserverTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleBufferingApp/DoubleBufferingApp.iml" filepath="$PROJECT_DIR$/DoubleBufferingApp/DoubleBufferingApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsApp/GraphicsApp.iml" filepath="$PROJECT_DIR$/GraphicsApp/GraphicsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerApp/HandlerApp.iml" filepath="$PROJECT_DIR$/HandlerApp/HandlerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentServiceApp/IntentServiceApp.iml" filepath="$PROJECT_DIR$/IntentServiceApp/IntentServiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearGradientApp/LinearGradientApp.iml" filepath="$PROJECT_DIR$/LinearGradientApp/LinearGradientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearGradientApp2/LinearGradientApp2.iml" filepath="$PROJECT_DIR$/LinearGradientApp2/LinearGradientApp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicDisplay/MusicDisplay.iml" filepath="$PROJECT_DIR$/MusicDisplay/MusicDisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NextThreadApp/NextThreadApp.iml" filepath="$PROJECT_DIR$/NextThreadApp/NextThreadApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDTest/SDTest.iml" filepath="$PROJECT_DIR$/SDTest/SDTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceApp/ServiceApp.iml" filepath="$PROJECT_DIR$/ServiceApp/ServiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServicesApp/ServicesApp.iml" filepath="$PROJECT_DIR$/ServicesApp/ServicesApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordTest3/WordTest3.iml" filepath="$PROJECT_DIR$/WordTest3/WordTest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/activities/activities.iml" filepath="$PROJECT_DIR$/activities/activities.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityforresult/activityforresult.iml" filepath="$PROJECT_DIR$/activityforresult/activityforresult.iml" />
       <module fileurl="file://$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" filepath="$PROJECT_DIR$/alertdialogapp/alertdialogapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindservicesapp/bindservicesapp.iml" filepath="$PROJECT_DIR$/bindservicesapp/bindservicesapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/changetext/changetext.iml" filepath="$PROJECT_DIR$/changetext/changetext.iml" />
       <module fileurl="file://$PROJECT_DIR$/checkbox/checkbox.iml" filepath="$PROJECT_DIR$/checkbox/checkbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/complexmenu/complexmenu.iml" filepath="$PROJECT_DIR$/complexmenu/complexmenu.iml" />
@@ -29,6 +44,7 @@
       <module fileurl="file://$PROJECT_DIR$/simplelistview/simplelistview.iml" filepath="$PROJECT_DIR$/simplelistview/simplelistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentlistview/studentlistview.iml" filepath="$PROJECT_DIR$/studentlistview/studentlistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/telephoneintent/telephoneintent.iml" filepath="$PROJECT_DIR$/telephoneintent/telephoneintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadapp/threadapp.iml" filepath="$PROJECT_DIR$/threadapp/threadapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/wordstest/wordstest.iml" filepath="$PROJECT_DIR$/wordstest/wordstest.iml" />
     </modules>
   </component>
