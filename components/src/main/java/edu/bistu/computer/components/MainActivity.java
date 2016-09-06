@@ -12,17 +12,22 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    private TextView resultText;
+    private CheckBox book;
+    private CheckBox movice;
+    private CheckBox music;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        CheckBox book = (CheckBox) findViewById(R.id.book);
-        CheckBox movice = (CheckBox) findViewById(R.id.movice);
-        CheckBox music = (CheckBox) findViewById(R.id.music);
+        book = (CheckBox) findViewById(R.id.book);
+        movice = (CheckBox) findViewById(R.id.movice);
+        music = (CheckBox) findViewById(R.id.music);
 
         RadioButton male = (RadioButton) findViewById(R.id.radio_male);
-        final TextView resultText = (TextView) findViewById(R.id.text_result);
+        resultText = (TextView) findViewById(R.id.text_result);
         final TextView saveRex = (TextView) findViewById(R.id.save_rex);
         final EditText editText = (EditText) findViewById(R.id.editText);
         Button change = (Button) findViewById(R.id.change_text);
@@ -36,9 +41,9 @@ public class MainActivity extends AppCompatActivity {
         male.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-                if(b){
+                if (b) {
                     saveRex.setText("男");
-                }else{
+                } else {
                     saveRex.setText("女");
                 }
             }
@@ -46,11 +51,31 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void onCheckboxClicked(View view){
+    public void onCheckboxClicked(View view) {
         int id = view.getId();
-        switch (id){
+        boolean checked = ((CheckBox) view).isChecked();
+        switch (id) {
             case R.id.movice:
-
+                if (checked) {
+                    resultText.setText(resultText.getText() + "," + movice.getText());
+                } else {
+                    resultText.setText("");
+                }
+                break;
+            case R.id.book:
+                if (checked) {
+                    resultText.setText(resultText.getText() + "," + book.getText());
+                } else {
+                    resultText.setText("");
+                }
+                break;
+            case R.id.music:
+                if (checked) {
+                    resultText.setText(resultText.getText() + "," + music.getText());
+                } else {
+                    resultText.setText("");
+                }
+                break;
         }
     }
 }
