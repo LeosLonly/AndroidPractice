@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final Runnable runnable = new Runnable() {
+        final Runnable runnables = new Runnable() {
             @Override
             public void run() {
                 long endTime = System.currentTimeMillis() + 10 * 1000;
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         startService.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Thread myThread = new Thread(null, runnable, "WorkThread");
+                Thread myThread = new Thread(null, runnables, "WorkThread");
                 myThread.start();
             }
         });
