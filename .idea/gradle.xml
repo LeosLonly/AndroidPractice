@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AccessWordsApp" />
+            <option value="$PROJECT_DIR$/BroadcastApp" />
             <option value="$PROJECT_DIR$/ContactsTest" />
             <option value="$PROJECT_DIR$/ContentObserverTest" />
             <option value="$PROJECT_DIR$/DoubleBufferingApp" />
@@ -45,6 +46,7 @@
             <option value="$PROJECT_DIR$/logindialog" />
             <option value="$PROJECT_DIR$/logtest" />
             <option value="$PROJECT_DIR$/optionsmenu" />
+            <option value="$PROJECT_DIR$/photoapp" />
             <option value="$PROJECT_DIR$/popupmenu" />
             <option value="$PROJECT_DIR$/recylerview" />
             <option value="$PROJECT_DIR$/simplelistview" />
@@ -58,6 +60,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AccessWordsApp" />
+            <option value="$PROJECT_DIR$/BroadcastApp" />
             <option value="$PROJECT_DIR$/ContactsTest" />
             <option value="$PROJECT_DIR$/ContentObserverTest" />
             <option value="$PROJECT_DIR$/DoubleBufferingApp" />
@@ -93,6 +96,7 @@
             <option value="$PROJECT_DIR$/logindialog" />
             <option value="$PROJECT_DIR$/logtest" />
             <option value="$PROJECT_DIR$/optionsmenu" />
+            <option value="$PROJECT_DIR$/photoapp" />
             <option value="$PROJECT_DIR$/popupmenu" />
             <option value="$PROJECT_DIR$/recylerview" />
             <option value="$PROJECT_DIR$/simplelistview" />

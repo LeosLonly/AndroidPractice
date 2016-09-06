@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AccessWordsApp/AccessWordsApp.iml" filepath="$PROJECT_DIR$/AccessWordsApp/AccessWordsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroadcastApp/BroadcastApp.iml" filepath="$PROJECT_DIR$/BroadcastApp/BroadcastApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContactsTest/ContactsTest.iml" filepath="$PROJECT_DIR$/ContactsTest/ContactsTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentObserverTest/ContentObserverTest.iml" filepath="$PROJECT_DIR$/ContentObserverTest/ContentObserverTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleBufferingApp/DoubleBufferingApp.iml" filepath="$PROJECT_DIR$/DoubleBufferingApp/DoubleBufferingApp.iml" />
@@ -39,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/logindialog/logindialog.iml" filepath="$PROJECT_DIR$/logindialog/logindialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/logtest/logtest.iml" filepath="$PROJECT_DIR$/logtest/logtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/optionsmenu/optionsmenu.iml" filepath="$PROJECT_DIR$/optionsmenu/optionsmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoapp/photoapp.iml" filepath="$PROJECT_DIR$/photoapp/photoapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/popupmenu/popupmenu.iml" filepath="$PROJECT_DIR$/popupmenu/popupmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/recylerview/recylerview.iml" filepath="$PROJECT_DIR$/recylerview/recylerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplelistview/simplelistview.iml" filepath="$PROJECT_DIR$/simplelistview/simplelistview.iml" />
