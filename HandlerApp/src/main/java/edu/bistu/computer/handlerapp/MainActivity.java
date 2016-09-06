@@ -6,6 +6,7 @@ import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -17,11 +18,14 @@ public class MainActivity extends AppCompatActivity {
 
         final TextView resultText = (TextView) findViewById(R.id.display_result);
 
+        final ProgressBar bar = (ProgressBar) findViewById(R.id.pb);
+
         final Handler handler = new Handler() {
             @Override
             public void handleMessage(Message msg) {
                 super.handleMessage(msg);
                 resultText.setText(msg.arg1 + "");
+                bar.setProgress(Integer.valueOf(msg.arg1));
             }
         };
 
