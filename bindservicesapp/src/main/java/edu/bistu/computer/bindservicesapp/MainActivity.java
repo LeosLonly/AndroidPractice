@@ -12,7 +12,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "MainActivityTag";
+    private static final String TAG = "MyServicesTag";
     private MyService service;
 
     @Override
